@@ -21,7 +21,7 @@ This homepage is tailored for the Newsky ecosystem, ensuring compatibility and r
 ## 🎨 Screenshots
 
 ![Homepage Screenshot](img/cl-homepage-screenshot.png)  
-_Example of the homepage interface. [Replace this with an actual screenshot]_
+_Example of the homepage interface.
 
 ---
 
